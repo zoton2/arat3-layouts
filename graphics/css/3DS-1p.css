@@ -6,56 +6,60 @@ body {
 
 #logo {
 	left: 33px;
-	top: 78px;
+	top: 161px;
 	width: 416px;
 	height: 170px;
 }
 
-.gameCapture {
-	width: 1440px;
-	height: 1080px;
+#gameCapture1 {
+	left: 505px;
+	top: 0px;
+	width: 1415px;
+	height: 849px;
 }
 
-#gameCapture1 {
-	left: 480px;
-	top: 0px;
+#gameCapture1B {
+	left: 0px;
+	top: 701px;
+	width: 505px;
+	height: 379px;
 }
 
 .header {
 	font-size: 60px;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 }
 
 #playerContainer {
-	left: 37px;
-	top: 328px;
-	width: 410px;
+	left: 684px;
+	top: 875px;
+	width: 614px;
 }
 
 #gameTitleContainer {
-	left: 37px;
-	top: 466px;
-	width: 410px;
+	left: 684px;
+	top: 980px;
+	width: 614px;
 }
 
 #gameCategoryContainer {
-	left: 37px;
-	top: 663px;
-	width: 410px;
+	left: 1324px;
+	top: 875px;
+	width: 598px;
 }
 
 #gameEstimateContainer {
-	left: 37px;
-	top: 800px;
-	width: 410px;
+	left: 1324px;
+	top: 980px;
+	width: 598px;
 }
 
 #timerContainer1 {
 	font-size: 200px;
 	left: 0px;
-	top: 930px;
-	width: 480px;
-	height: 113px;
+	top: 438px;
+	width: 505px;
+	height: 137px;
 }
 
 .timer {

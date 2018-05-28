@@ -21,6 +21,21 @@
         "file": "4_3-1p.html",
         "width": 1920,
         "height": 1080
+      },
+      {
+        "file": "16_9-1p.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "3DS-1p.html",
+        "width": 1920,
+        "height": 1080
+      },
+      {
+        "file": "16_9-2p.html",
+        "width": 1920,
+        "height": 1080
       }
     ]
   }

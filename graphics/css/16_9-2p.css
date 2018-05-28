@@ -1,0 +1,85 @@
+body {
+	font-size: 70px;
+	text-transform: uppercase;
+	letter-spacing: 6px;
+}
+
+#logo {
+	left: 752px;
+	top: 770px;
+	width: 416px;
+	height: 170px;
+}
+
+.gameCapture {
+	width: 960px;
+	height: 540px;
+}
+
+#gameCapture1 {
+	left: 0px;
+	top: 90px;
+}
+
+#gameCapture2 {
+	left: 960px;
+	top: 90px;
+}
+
+.header {
+	font-size: 60px;
+	padding-bottom: 15px;
+}
+
+#playerContainer {
+	left: 81px;
+	top: 749px;
+	width: 659px;
+}
+
+#gameTitleContainer {
+	left: 81px;
+	top: 885px;
+	width: 659px;
+}
+
+#gameCategoryContainer {
+	left: 1369px;
+	top: 749px;
+	width: 533px;
+}
+
+#gameEstimateContainer {
+	left: 1369px;
+	top: 885px;
+	width: 533px;
+}
+
+.timerContainer {
+	font-size: 200px;
+	top: 0px;
+	width: 541px;
+	height: 90px;
+}
+
+#timerContainer1 {
+	left: 0px;
+	justify-content: flex-start;
+}
+
+#timerContainer2 {
+	left: 1379px;
+	justify-content: flex-end;
+}
+
+.timer {
+	margin-bottom: -15px;
+}
+
+#timerContainer1 .timer {
+	padding-left: 15px;
+}
+
+#timerContainer2 .timer {
+	padding-right: 15px;
+}
