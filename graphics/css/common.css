@@ -1,0 +1,51 @@
+/* Custom Fonts */
+@font-face {
+	font-family: 'Sawchain';
+	src: url('../images/Sawchain.ttf') format('truetype');
+}
+
+/* Some general settings used for everything and other minor changes to the body. */
+body {
+	font-family: 'Sawchain';
+	color: white;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+/* Background colour. */
+#background {
+	position: fixed;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	background-color: #2a2d34;
+	width: 1920px;
+	height: 1080px;
+}
+
+#logo {
+	position: fixed;
+	background-image: url('../images/logo.png');
+}
+
+.storageBox {
+	position: fixed;
+}
+
+.gameCapture {
+	background-color: #0d0d0f;
+}
+
+/* Simple flex box to align things center. */
+.flexContainer {
+	display: flex;
+	align-items: center; /* Aligns vertically centre. */
+	justify-content: center; /* Aligns horizontally centre. */
+}
+
+.header {
+	font-size: 60px;
+	color: #ff715b;
+	padding-bottom: 15px;
+}
