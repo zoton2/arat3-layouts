@@ -51,3 +51,24 @@ body {
 	color: #ff715b;
 	padding-bottom: 15px;
 }
+
+#gameEstimate:after {
+	content: ':00';
+}
+
+.timer {
+	opacity: 0;
+}
+
+/* Different colours for each state the timer can be in. */
+.timer_running {color: white}
+.timer_paused, .timer_stopped {color: gray;}
+.timer_finished {color: #ff715b;}
+
+/* Each character in the timer is in a span; setting width so the numbers appear monospaced. */
+.timer span {
+	display: inline-block;
+	width: 0.25em;
+	text-align: center;
+}
+.timer .char3, .timer .char6 {width: 0.1em;}

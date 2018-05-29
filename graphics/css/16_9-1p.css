@@ -1,5 +1,5 @@
 body {
-	font-size: 50px;
+	font-size: 47px;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 }
@@ -22,7 +22,7 @@ body {
 }
 
 .header {
-	/*font-size: 55px;*/
+	/*font-size: 45px;*/
 	padding-bottom: 5px;
 }
 
@@ -35,13 +35,13 @@ body {
 #gameTitleContainer {
 	left: 507px;
 	top: 1010px;
-	width: 625px;
+	width: 553px;
 }
 
 #gameCategoryContainer {
-	left: 1132px;
+	left: 1060px;
 	top: 1010px;
-	width: 335px;
+	width: 407px;
 }
 
 #gameEstimateContainer {
