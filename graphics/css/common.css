@@ -52,9 +52,9 @@ body {
 	padding-bottom: 15px;
 }
 
-#gameEstimate:after {
+/*#gameEstimate:after {
 	content: ':00';
-}
+}*/
 
 .timer {
 	opacity: 0;
